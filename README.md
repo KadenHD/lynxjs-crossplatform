@@ -2,6 +2,10 @@
 
 A project setup for building web and mobile applications using LynxJS.
 
+[![Stars Badge](https://img.shields.io/github/stars/KadenHD/lynxjs-crossplatform)](https://github.com/KadenHD/lynxjs-crossplatform/stargazers)
+[![Forks Badge](https://img.shields.io/github/forks/KadenHD/lynxjs-crossplatform)](https://github.com/KadenHD/lynxjs-crossplatform/network/members)
+[![License Badge](https://img.shields.io/github/license/KadenHD/lynxjs-crossplatform?color=2b9348)](https://github.com/KadenHD/lynxjs-crossplatform/blob/master/LICENSE)
+
 ## Requirements
 
 - Node.js >= 18
