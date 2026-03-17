@@ -144,3 +144,8 @@ npm install
 - **Concurrently:** Tool for running multiple commands concurrently.
 - **Nodemon:** For auto-restarting the server during development.
 - **TypeScript:** Type checking and static analysis.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/image?repos=KadenHD/lynxjs-crossplatform&type=date&legend=top-left)](https://www.star-history.com/?repos=KadenHD%2Flynxjs-crossplatform&type=date&legend=top-left)
+
